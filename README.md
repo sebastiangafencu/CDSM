@@ -12,3 +12,13 @@ A project by:
 <li>Hamidreza Soltanpourkhazaei</li>
 </ul>
 </p>
+
+<p>
+<br>
+<h3>Demos</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ML3bBrknKvI">poor man's aphex twin</a></li>
+<li><a href="https://www.youtube.com/watch?v=ucPkcD4G760">lowfi beat to relax/study actam to</a></li>
+<li><a href="https://www.youtube.com/watch?v=0VkEMuOu0so">random arp</a></li>
+</ul>
+</p>
