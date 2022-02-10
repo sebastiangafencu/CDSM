@@ -1,5 +1,5 @@
 # CDSM
-<h3><b>Campionatore Digitale / Sequenziatore Digitale </b> </h3>
+<h3><b>Campionatore Digitale / Sequenziatore Matriciale </b> </h3>
 <i>An unironically flamboyant sequencer coupled with an ironically limited effect matrix.</i>
 
 <p>
