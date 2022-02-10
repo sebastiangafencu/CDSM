@@ -12,9 +12,7 @@ A project by:
 <li>Hamidreza Soltanpourkhazaei</li>
 </ul>
 </p>
-
 <p>
-<br>
 <h3>Demos</h3>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=ML3bBrknKvI">poor man's aphex twin</a></li>
