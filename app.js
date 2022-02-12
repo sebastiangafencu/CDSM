@@ -196,7 +196,7 @@ function toggleRandomThemeOnMetronome(){
         if(randomThemeOnPulse){
             randomTheme();
             currentThemeIndex = -1;
-            redrawCanvasBasedElements();
+            //redrawCanvasBasedElements();
         }
     }, false);
 }
